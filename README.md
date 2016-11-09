@@ -3,7 +3,7 @@
 
 A local versus two-player bullet hell shooter.
 
-Available at from [itch.io](https://midcode.itch.io/bullet-hellions)
+Available from [itch.io](https://midcode.itch.io/bullet-hellions)
 
 
 Requires HaxePunk (2.5.6 or newer) and its prerequisites to build.
