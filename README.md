@@ -10,4 +10,4 @@ Requires HaxePunk (2.5.6 or newer) and its prerequisites to build.
 
 Building only tested for the Windows target. Some other default targets should work.
 
-Controller support may not function for non-Windows targets in its current state.
+Controller support may not function for non-Windows targets in its current state, feel free to submit a pull request if you fix any issues related to this.
